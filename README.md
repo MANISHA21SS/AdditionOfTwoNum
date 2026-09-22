@@ -1,5 +1,7 @@
 # AdditionOfTwoNum
 # ANDROID APPLICATION FOR ADDITION OF TWO NUMBERS
+# Name: Manisha selvakumari S S
+# Register No: 212223220055
 # AIM:
 To develop an Android application that accepts two numbers and displays their sum when the Add button is clicked.
 # Software Used:
